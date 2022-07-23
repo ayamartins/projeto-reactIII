@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import Header from '../../components/Header/Header'
 import { FiTrash2, FiPlus } from 'react-icons/fi'
 
-import image from '../../assets/imgmenina.svg'
+import image from '../../assets/fotocomentario.svg'
 import './comentarios.css'
 
 function Comentarios() {
